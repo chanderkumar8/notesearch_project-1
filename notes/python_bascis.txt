@@ -1,0 +1,2 @@
+Python is a programming language. A loop repeats code. A for loop goes through a list.
+Variables store values. Python uses indentation to define blocks of code.

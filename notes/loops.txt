@@ -1,0 +1,2 @@
+A while loop repeats until a condition is false. A for loop repeats over a sequence.
+Avoid an infinite loop by changing the condition inside the loop.

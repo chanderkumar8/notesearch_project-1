@@ -1,0 +1,2 @@
+A dictionary in Python is a hash table. Hashing gives fast lookup.
+Use a dictionary to count words. A set stores unique values with fast lookup.
